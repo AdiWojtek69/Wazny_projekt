@@ -10,5 +10,7 @@ void funkcja5(){
     System.out.println("ELOSZKA");
 }
 
+int z =4;
+
 
 }
